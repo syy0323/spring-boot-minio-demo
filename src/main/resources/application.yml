@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-boot-minio-demo
+
+upload:
+  end-point: http://192.168.81.128:9000
+  region: xnj
+  access-key: YA7LgtMcxbEhewB0Kdgk
+  secret-key: TyrFMkgwMOxo3qEnC6B3DqoGGGqYkNq2rquRbHcp
+
